@@ -1,1 +1,6 @@
+
+#!/bin/bash
+
+echo "Bhushan Let us pretend that this is building something ... and takes 20 seconds"
+
 sudo apt-get install nodejs
